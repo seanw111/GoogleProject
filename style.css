@@ -1,0 +1,174 @@
+.central {
+    position:absolute;
+    top: 230px;
+    right: 30%;
+    
+}
+
+.topnav{
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    word-spacing: 17px;
+  }
+
+#topright-links {
+    position: relative;
+    top: -30px;
+    right: 93px;
+}
+
+.topnav a:link, a:visited {
+    color: #000000;
+    cursor: pointer;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    height: 24px;
+    line-height: 24px;
+    text-decoration-color: #000000;
+    text-decoration: none;
+    letter-spacing: .25px;
+}
+
+
+ .topnav a:hover, a:active, a:focus{
+    color: rgb (80,80,80);
+    cursor: pointer;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    height: 24px;
+    line-height: 24px;
+    text-decoration-color: #000000;
+    text-decoration: underline;
+    text-decoration-style:solid;
+    letter-spacing: .25px
+}
+
+
+        
+
+
+  #topright {
+      float:right;
+      top: 0;
+      right: 0;
+}
+
+  #logo-search {
+      position: relative;
+      top: 280px;
+      right: -36px;
+}
+
+#search-submit-languages {
+    position: relative;
+    top: 9px;
+    right: 136px;
+}
+
+.search-button {
+    position:relative;
+    top: 0;
+    right: 0;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+    min-width: 54px;
+    cursor: pointer;
+}
+
+#search-buttons {
+    position: relative;
+    top: 4px;
+    right: 5px;
+}
+
+ul#language-list li {
+    display:inline;
+}
+
+#language-options {
+    position:relative;
+    top: 0;
+    right: 19px;
+}
+
+#bottomleft {
+    position: absolute;
+    bottom: 0px;
+    left: 0px; 
+    color:#5f6368;
+    text-align: left;
+    width: 50%;
+    line-height: 38px;
+}
+
+#bottomright {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    color:#5f6368;
+    text-align: right;
+    width: 50%;
+    line-height: 38px;
+}
+
+#country {
+    width: 100%;
+    line-height: 38px;
+    position: absolute;
+    bottom: 40px;
+    left: 0px;
+}
+
+#search-bar {
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    height: 44px;
+    width: 520px;
+}
+
+li,ul {
+    display: inline;
+    text-align: left;
+    margin-right: 17px;
+ 
+}
+.bottombars {
+    background-color: #f2f2f2;
+    height: 40px;
+    line-height: 2px;
+}
+.bottombars a:link, a:visited {
+    color: #5f6368;
+    cursor: pointer;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    height: 24px;
+    line-height: 24px;
+    text-decoration-color: #000000;
+    text-decoration: none;
+    text-decoration-style:solid;
+    letter-spacing: .25px
+}
+
+.bottombars a:hover, a:active, a:focus{
+    color: #5f6368;
+    cursor: pointer;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    height: 24px;
+    line-height: 24px;
+    text-decoration-color: #000000;
+    text-decoration: underline;
+    text-decoration-style:solid;
+    letter-spacing: .25px;
+}
+
